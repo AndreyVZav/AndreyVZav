@@ -2,14 +2,14 @@
 
 I'm from Dubna, Russia. Learning Swift from 2023. Studied online lessons Lazyload academy (https://lazyload.academy) and Paul Hudson (https://www.hackingwithswift.com/books/ios-swiftui). Finish Swift marathon 14.0 (https://devrush.eduonline.io) in top 8 participants.
 
-## Skills and Experience   Swift
+## Skills and Experience   
+- Swift
 - Xcode
 - iOS SDK, Core Data, UserDefaults.
 -  SPM / Firebase / JSON 
 
 ## Certificates 
-![](https://github.com/AndreyVZav/AndreyVZav/blob/main/SM0082.png)
-![](https://github.com/AndreyVZav/AndreyVZav/blob/main/DevRush_2025-04-28.png)
+<img src="https://github.com/AndreyVZav/AndreyVZav/blob/main/DevRush_2025-04-28.png" width="300"/> , <img src="https://github.com/AndreyVZav/AndreyVZav/blob/main/SM0082.png" width="300"/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AndreyVZav)](https://github.com/ryo-ma/github-profile-trophy)
 
