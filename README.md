@@ -8,8 +8,8 @@ I'm from Dubna, Russia. Learning Swift from 2023. Studied online lessons Lazyloa
 -  SPM / Firebase / JSON 
 
 ## Certificates 
-![](https://github.com/AndreyVZav/AndreyVZav/blob/main/SM0082.jpeg)
-![](https://github.com/AndreyVZav/AndreyVZav/blob/main/DevRush_2025-04-28.jpg)
+![](https://github.com/AndreyVZav/AndreyVZav/blob/main/SM0082.png)
+![](https://github.com/AndreyVZav/AndreyVZav/blob/main/DevRush_2025-04-28.png)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AndreyVZav)](https://github.com/ryo-ma/github-profile-trophy)
 
