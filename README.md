@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Andrey.+)](https://git.io/typing-svg)
 
+
 I'm from Dubna, Russia. Learning Swift from 2023. Studied online lessons Lazyload academy (https://lazyload.academy) and Paul Hudson (https://www.hackingwithswift.com/books/ios-swiftui). Finish Swift marathon 14.0 (https://devrush.eduonline.io) in top 8 participants.
 
 ## Skills and Experience   Swift
