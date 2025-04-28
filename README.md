@@ -7,7 +7,7 @@ I'm from Dubna, Russia. Learning Swift from 2023. Studied online lessons Lazyloa
 - iOS SDK, Core Data, UserDefaults.
 -  SPM / Firebase / JSON 
 
-## Certificaates 
+## Certificates 
 ![](https://github.com/AndreyVZav/AndreyVZav/blob/main/SM0082.jpeg)
 ![](https://github.com/AndreyVZav/AndreyVZav/blob/main/DevRush_2025-04-28.jpg)
 
